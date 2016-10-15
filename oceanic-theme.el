@@ -1,4 +1,4 @@
-;;; oceanic.el --- Oceanic theme for Emacs.
+;;; oceanic-theme.el --- Oceanic theme for Emacs.
 
 ;; Copyright (C) 2016, Tengfei Guo <terryr3rd@yeah.net>
 
