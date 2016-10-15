@@ -1,9 +1,9 @@
-;;; oceanic-theme.el --- Oceanic theme for Emacs.
+;;; oceanic-theme.el --- Oceanic theme.
 
 ;; Copyright (C) 2016, Tengfei Guo <terryr3rd@yeah.net>
 
 ;; Author: Tengfei Guo
-;; Keywords: oceanic color theme emacs
+;; Keywords: oceanic color theme
 ;; URL: https://github.com/terry3/oceanic-theme
 ;; Version: 0.0.1
 
